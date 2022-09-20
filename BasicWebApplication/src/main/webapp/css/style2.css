@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+	background-color:#ADD8E6;
+	font:small-caption;
+}
+
+.regbox{
+	margin:auto;
+}
+
+
+.header{
+	text-align: center;
+	padding-top: 2rem;
+	padding-bottom: 1rem;
+}
+table{
+	padding:15px;
+    margin-right: auto;
+    margin-left: auto;
+	border: 1px solid black;
+	
+}
+.headoftable{
+	background-color:#DCDCDC;
+	white-space: nowrap;
+}	
+
+td{
+	margin-top:10px;
+}
