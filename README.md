@@ -2,7 +2,8 @@
  
 <h5>this is a simple web application of issue tracker</h5>
 
-><span fill="red">Using java and javascript</span><br>
+><span fill="red">Using java, javascript an mySQL</span><br>
+
 There is also a <a color="red" href="https://airlines-demo-version.herokuapp.com/private.php">private</a> side of airlines for employees-users that can see more details about flights and can add aircrafts in database
 <hr>
 <br>
