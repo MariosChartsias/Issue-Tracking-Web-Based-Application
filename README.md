@@ -6,7 +6,7 @@
 
 <hr>
 <br>
-<p align="center">This is the<a href="https://airlines-demo-version.herokuapp.com/"> main</a> page with name index.php<br><img width="800" src="https://raw.githubusercontent.com/MariosChartsias/Airlines-demo/main/images/Screenshot%20from%202022-08-08%2020-08-36.png">
+<p align="center">This is the<a href="https://airlines-demo-version.herokuapp.com/"> main</a> page with name index.php<br><img width="800" src="https://raw.githubusercontent.com/MariosChartsias/Issue-Tracking-Web-Based-Application/main/Images/Index.jpg">
 <hr></p>
 
 <br>
