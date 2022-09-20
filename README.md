@@ -4,7 +4,6 @@
 
 ><span fill="red">Using java, javascript an mySQL</span><br>
 
-There is also a <a color="red" href="https://airlines-demo-version.herokuapp.com/private.php">private</a> side of airlines for employees-users that can see more details about flights and can add aircrafts in database
 <hr>
 <br>
 <p align="center">This is the<a href="https://airlines-demo-version.herokuapp.com/"> main</a> page with name index.php<br><img width="800" src="https://raw.githubusercontent.com/MariosChartsias/Airlines-demo/main/images/Screenshot%20from%202022-08-08%2020-08-36.png">
