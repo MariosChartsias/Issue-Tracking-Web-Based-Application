@@ -12,6 +12,4 @@
 <br>
 <p align="center">entity-relationship diagram <br><img width="400" src="https://raw.githubusercontent.com/MariosChartsias/Issue-Tracking-Web-Based-Application/main/Images/ER%20diagram.jpg">
 <hr></p>
-<br>
-<p align="center">relational diagram <br><img width="500" src="https://raw.githubusercontent.com/MariosChartsias/Airlines-demo/main/images/Relational%20diagram%20copy.jpg"></p>
 
