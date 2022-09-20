@@ -6,7 +6,9 @@
 
 <hr>
 <br>
-<p align="center">This is the <a href="https://webappissue.herokuapp.com/">main page</a> with name index.jsp<br><img width="800" src="https://raw.githubusercontent.com/MariosChartsias/Issue-Tracking-Web-Based-Application/main/Images/Index.jpg">
+<p align="center">This is the mainpage with name index.jsp<br>
+ You can have access from <a href="https://webappissue.herokuapp.com/">here</a> but only for GUI not the Database
+ <img width="800" src="https://raw.githubusercontent.com/MariosChartsias/Issue-Tracking-Web-Based-Application/main/Images/Index.jpg">
 <hr></p>
 
 <br>
