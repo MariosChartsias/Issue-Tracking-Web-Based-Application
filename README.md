@@ -8,7 +8,7 @@
 
 <p align="center">Representation of Project<br></p>
 <br>
- <img width="899" src="https://raw.githubusercontent.com/MariosChartsias/Issue-Tracking-Web-Based-Application/main/Images/2022-09-24 15-08-42.gif">
+ <img width="800" src="https://raw.githubusercontent.com/MariosChartsias/Issue-Tracking-Web-Based-Application/main/Images/2022-09-24 15-08-42.gif">
 <hr>
 
 <br>
