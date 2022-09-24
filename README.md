@@ -6,7 +6,7 @@
 
 <hr>
 <br>
-<p align="center">This is the mainpage with name index.jsp<br>
+<p align="center">Representation of Project<br>
 
  <img width="950" src="https://raw.githubusercontent.com/MariosChartsias/Issue-Tracking-Web-Based-Application/main/Images/2022-09-24 15-08-42.gif">
 <hr></p>
