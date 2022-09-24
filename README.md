@@ -8,7 +8,7 @@
 <br>
 <p align="center">This is the mainpage with name index.jsp<br>
 
- <img width="800" src="https://raw.githubusercontent.com/MariosChartsias/Issue-Tracking-Web-Based-Application/main/Images/2022-09-24 15-08-42.gif">
+ <img width="900" src="https://raw.githubusercontent.com/MariosChartsias/Issue-Tracking-Web-Based-Application/main/Images/2022-09-24 15-08-42.gif">
 <hr></p>
 
 <br>
